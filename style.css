@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{font:16px/1.5 Arial,sans-serif;margin:30px auto;max-width:1000px;padding:0 20px;color:#20364b}h1{font-size:28px}h2{font-size:19px;margin:24px 0 12px}.example{max-width:100%;overflow:auto;padding:2px}.flex{display:flex;gap:10px}.flex>div{padding:20px;background:lightblue;text-align:center;min-width:0}.green>div{background:lightgreen}.coral>div{background:lightcoral}.yellow>div{background:lightyellow}
+.grow-demo{width:800px;background:#eee;padding:10px}.grow-demo>div{width:100px}.grow-demo .item2{flex-grow:1;background:lightgreen}
